@@ -12,14 +12,12 @@ Requirements :
 Makefile
 gcc
 g++
-vim
 
 
 Execution Process :
 go to pizza_delivery
 run make clean
 run make
-
 
 
 
