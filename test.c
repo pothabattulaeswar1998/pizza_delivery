@@ -4,6 +4,8 @@
 
 int main()
 {
-	printf("Hello World\n");
+	int a=0;
+
+	printf("a = %d\n", a);
 	return 0;
 }
